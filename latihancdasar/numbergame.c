@@ -44,7 +44,7 @@ int main()
 		count++;
 		printf("Attempt %d: %d\n", count + 1, guess);
 	}
-	printf("Congratulation You Guess it Right");
+	printf("Congratulation You Guess it Right\n");
 	}
 	if (choice == 2)
 	{
@@ -80,7 +80,7 @@ int main()
 		count++;
 		printf("Attempt %d: %d\n", count + 1, guess);
 	}
-	printf("Congratulation You Guess it Right");
+	printf("Congratulation You Guess it Right\n");
 	}
 	if (choice == 3)
 	{
